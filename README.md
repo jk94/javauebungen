@@ -1,4 +1,4 @@
-java_uebungsaufgaben
+Java Übungsaufgaben
 ====================
 
 Übungsaufgaben für Java in verschiedenen Schwierigkeitsstufen
